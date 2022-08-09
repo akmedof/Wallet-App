@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aslan/AndroidStudioProjects/Wallet/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="app/src/main/res/drawable/radio_normal.xml" value="0.105" />
+        <entry key="app/src/main/res/drawable/radio_selected.xml" value="0.105" />
+        <entry key="app/src/main/res/drawable/radio_selector.xml" value="0.105" />
+        <entry key="app/src/main/res/drawable/text_color.xml" value="0.105" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3026041666666667" />
+        <entry key="app/src/main/res/layout/amount_component.xml" value="0.31666666666666665" />
+        <entry key="app/src/main/res/layout/category_item.xml" value="0.31666666666666665" />
+        <entry key="app/src/main/res/layout/date_component.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/dropdown_item.xml" value="0.27291666666666664" />
+        <entry key="app/src/main/res/layout/fragment_analytics.xml" value="0.29239766081871343" />
+        <entry key="app/src/main/res/layout/fragment_report.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_wallet.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/recent_transaction_item.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/spent_and_received_ui.xml" value="0.31666666666666665" />
+        <entry key="app/src/main/res/layout/wallet_balance_ui.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.31666666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
